@@ -7,6 +7,8 @@
 
 FullStore é uma plataforma Ecommerce desenvolvida em react Js com backend em laravel.
 
+[Link demo no youtube](https://youtu.be/BkPvm2ZC0OA)
+
 ## Instalação
 
 Para a instalação precisa instalar essas dependencias:
