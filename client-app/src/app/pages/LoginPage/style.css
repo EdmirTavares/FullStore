@@ -1,0 +1,26 @@
+ .loginContainer{
+  background-color: rgb(243, 240, 240);
+  border-radius: 8px;
+  height: 294px;
+  left: calc(50.00% - 160px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 147px);
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+ .loginForm {
+  max-width: 300px;
+}
+ .loginFormForgot {
+  float: right;
+}
+ .loginFormForgot {
+  float: left;
+}
+ .loginFormButton {
+  width: 100%;
+}
